@@ -4,7 +4,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding animation"/>
 
-I'm Wessam, a programmer with experience in **C, C++, and Java**. I enjoy solving problems, learning new technologies, and developing my programming skills.
+I'm Wessam, a programmer with experience in C, C++, and Java. I enjoy solving problems, learning new technologies, and developing my programming skills.
 
 - 🔭 Currently improving my programming skills
 - 💻 Experienced with C, C++, and Java
@@ -49,6 +49,5 @@ I'm always happy to connect with other developers, exchange ideas, and learn fro
 
 - 🐙 GitHub: [WESSAM-K-OI](https://github.com/Wessam-k-oi)
 
----
 
 ⭐ Thanks for visiting my profile! Keep coding and keep learning
