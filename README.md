@@ -2,7 +2,7 @@
 
 💻 Programmer | C | C++ | Java
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Coding animation"/>
+
 
 I'm Wessam, a programmer with experience in C, C++, and Java. I enjoy solving problems, learning new technologies, and developing my programming skills.
 
@@ -41,11 +41,6 @@ Here are some of my projects. More coming soon!
 - 🔹 C++ Projects — Object-oriented programming and problem-solving
 - 🔹 Java Projects — Applications and programming exercises
 
-
-
-🤝 Let's Connect!
-
-I'm always happy to connect with other developers, exchange ideas, and learn from the programming community.
 
 - 🐙 GitHub: [WESSAM-K-OI](https://github.com/Wessam-k-oi)
 
