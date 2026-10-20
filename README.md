@@ -12,7 +12,6 @@ I'm Wessam, a programmer with experience in **C, C++, and Java**. I enjoy solvin
 - 🌱 Always learning and exploring new ideas
 - 🎯 Goal: Build useful, efficient, and reliable software
 
----
 
  🛠️ Languages and Tools
 
@@ -24,7 +23,6 @@ I'm Wessam, a programmer with experience in **C, C++, and Java**. I enjoy solvin
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
----
 
 🚀 What I'm Interested In
 
@@ -34,7 +32,6 @@ I'm Wessam, a programmer with experience in **C, C++, and Java**. I enjoy solvin
 - 💡 Writing clean, readable, and efficient code
 - 🌍 Exploring new technologies and building projects
 
----
 
 📌 Featured Projects
 
@@ -44,21 +41,7 @@ Here are some of my projects. More coming soon!
 - 🔹 C++ Projects — Object-oriented programming and problem-solving
 - 🔹 Java Projects — Applications and programming exercises
 
-Replace these examples with links to your actual repositories
 
----
-
-📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Wessam's GitHub Stats"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
-</p>
-
----
 
 🤝 Let's Connect!
 
