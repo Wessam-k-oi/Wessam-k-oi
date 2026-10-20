@@ -33,14 +33,6 @@ I'm Wessam, a programmer with experience in C, C++, and Java. I enjoy solving pr
 - 🌍 Exploring new technologies and building projects
 
 
-📌 Featured Projects
-
-Here are some of my projects. More coming soon!
-
-- 🔹 C Projects — Programs and exercises written in C
-- 🔹 C++ Projects — Object-oriented programming and problem-solving
-- 🔹 Java Projects — Applications and programming exercises
-
 
 - 🐙 GitHub: [WESSAM-K-OI](https://github.com/Wessam-k-oi)
 
